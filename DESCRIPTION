@@ -1,0 +1,15 @@
+Package: gdpR
+Type: Package
+Title: World Wide GDP Latest Information
+Version: 0.1.0
+Author: Mahesh Gurumoorthi
+Maintainer: The package maintainer <gmkumar_1988@yahoo.com>
+Description: Describes about GDP Latest Information 
+             Explains more information about each country details 
+             Performance of the Growth in each place
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 7.1.1
+Suggests: dplyr, tidyverse, tidyr, stringr
+NeedsCompilation: no
+Packaged: 2021-07-17 16:15:04 UTC; maheshgurumoorthi
